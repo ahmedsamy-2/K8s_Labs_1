@@ -24,3 +24,11 @@ The student will create and manage a single **Nginx pod**. They will use both **
 - [ ] **Task 5:** Execute an `exec` command into the pod to verify the custom `index.html` content and use `curl` to test the service endpoint from within the cluster.
 
 ---
+## 📂 Project Structure
+
+```text
+.
+├── index.html          
+├── pod.yaml            
+├── service.yaml        
+└── README.md         
